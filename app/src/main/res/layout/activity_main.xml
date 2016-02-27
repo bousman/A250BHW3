@@ -18,8 +18,8 @@
         custom:labelPosition="center"
         custom:showMyText="true"
         android:padding="10dp"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="250dp"
         android:background="@color/boxColor" />
 
 </LinearLayout>
